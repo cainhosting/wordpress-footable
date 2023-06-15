@@ -1,5 +1,9 @@
 # FooTable #
 
+**PHP create_function depreciation fix for PHP 8.1**
+
+**PHP create_function fix for footable/includes/Foo_Plugin_Base.php on line 657**
+
 **Contributors:** bradvin
 
 **Tags:** tables,responsive,jquery
